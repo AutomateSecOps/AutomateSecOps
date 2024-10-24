@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AutomateSecOps!
-- 👀 I’m interested in automation, SecOps, technical documentation.
+- 👀 I’m interested in automation, SecOps, & technical documentation.
 - 🌱 I’m currently learning and creating automated workflows with [Tines](https://www.tines.com/).
 - 💞️ I’m looking to collaborate on automation.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tompowercissp/)
