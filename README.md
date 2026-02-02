@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on automation.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/tompowercissp/)
 - 😄 Pronouns: ... he/him/his
-- ⚡ Fun facts: ... I have a soft spot for ramen, cats, monoprinting, and [progressive rock/metal music](https://open.spotify.com/playlist/32JfUgRnksbKgVMA7mMDXW?si=0ec3272056bd452c)! :metal
+- ⚡ Fun facts: ... I have a soft spot for ramen, cats, monoprinting, and [progressive rock/metal music](https://open.spotify.com/playlist/5hvAQzBcofkiM7TCXfJO85)! :metal
 
 <!---
 AutomateSecOps/AutomateSecOps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
